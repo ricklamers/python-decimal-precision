@@ -1,0 +1,31 @@
+{
+    "name": "Main",
+    "parameters": {},
+    "settings": {
+        "auto_eviction": false,
+        "data_passing_memory_size": "1GB"
+    },
+    "steps": {
+        "833da523-1785-402c-a821-b31655b5c854": {
+            "environment": "6ba1c377-6808-4207-ba8d-3797c7d30a5c",
+            "file_path": "main.ipynb",
+            "incoming_connections": [],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    155.5,
+                    555.5
+                ]
+            },
+            "parameters": {},
+            "title": "Main",
+            "uuid": "833da523-1785-402c-a821-b31655b5c854"
+        }
+    },
+    "uuid": "0a88e1ac-2542-4a25-a0c1-296ea0efc97e",
+    "version": "1.0.0"
+}
